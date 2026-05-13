@@ -1,0 +1,16 @@
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\bin\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.exe
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\bin\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.deps.json
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\bin\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.runtimeconfig.json
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\bin\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.dll
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\bin\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.pdb
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi_Tech_Contractors_Payroll.Form1.resources
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.csproj.GenerateResource.cache
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.AssemblyInfo.cs
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.dll
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\refint\Mzansi Tech Contractors Payroll.dll
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.pdb
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\Mzansi Tech Contractors Payroll.genruntimeconfig.cache
+C:\Users\cash\source\repos\Mzansi Tech Contractors Payroll\Mzansi Tech Contractors Payroll\obj\Debug\net10.0-windows\ref\Mzansi Tech Contractors Payroll.dll
